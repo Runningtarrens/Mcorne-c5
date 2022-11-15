@@ -170,6 +170,31 @@ Version v4 is the latest for the case. Version v2 is the latest for the Tenting 
 I only uploaded the one side as .stl but you can just mirror it in your slicer software to get the other version of it.
 
 
+# More Pics
+
+## experimental PCB
+
+![more1](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221026_122458.jpg)
+
+## JST connector on the underside
+
+![more2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221026_122503.jpg)
+
+## Travel Case setup with the tenting legs
+
+![more3](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221110_092549.jpg)
+
+## Only one half in the travel case
+
+![more4](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221110_092757.jpg)
+
+## Detailed view of the MCU area
+
+![more5](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221110_092946.jpg)
+
+
+
+
 # Legend
 
 

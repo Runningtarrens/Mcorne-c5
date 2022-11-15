@@ -126,6 +126,23 @@ The second part is for the round magnets, its at 13.2mm height. Please remember 
 ![Slice8](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice9.JPG)
 
 
+### Travel Case
+
+The travel case also needs 2 pauses for the magnets. It needs 10 x 10x2x2mm magnets to build. The magnets gets inserted at the beginning and at the end of the print. Its recommend that the last two layers are printed in 0.1mm layer height again, for the former mentioned reasons.
+
+#### Orientation of the Part:
+
+![Slice9](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice11.JPG)
+
+
+#### The first pause is at 2.8mm height
+
+![Slice10](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice12.JPG)
+
+#### Second pause is at 36mm ( for 0.1mm layer height at 35.90mm)
+
+
+![Slice11](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice13.JPG)
 
 
 

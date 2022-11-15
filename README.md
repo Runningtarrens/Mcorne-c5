@@ -14,7 +14,6 @@ Content:
 * Bill of Materials
 * How to print
 * Files
-* Tangented
 * More Pics
 * Legend
 
@@ -36,9 +35,10 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 
 To print this case youll need:
 * about 86 grams of Filament
-* 20 Neodymium Magnets (10mm x 2mm x 2mm)
-*  (Optional) 6 Neodymium Magnets round (10mm x 1mm)
-*  (Optional) 4 Noedymium Magnets (10mm x 2mm x 2mm)
+*  20 Neodymium Magnets (10mm x 2mm x 2mm)
+*  (Optional: Tenting) 6 Neodymium Magnets round (10mm x 1mm)
+*  (Optional: Tenting) 4 Neodymium Magnets (10mm x 2mm x 2mm)
+*  (Optional: Travel Case) 20 Neodymium Magnets (10mm x 2mm x 2mm)
 
 The optional magnets are only needed if you want to have the tenting setup of the case.
 
@@ -156,6 +156,21 @@ The travel case also needs 2 pauses for the magnets. It needs 10 x 10x2x2mm magn
 ![Slice11](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice13.JPG)
 
 
+
+# Files
+
+## latest files
+
+* bottom_v4.stl
+* top_v4.stl
+* tenting_v2.stl
+* travel_v2.stl
+
+Version v4 is the latest for the case. Version v2 is the latest for the Tenting legs and the Travel Case.
+I only uploaded the one side as .stl but you can just mirror it in your slicer software to get the other version of it.
+
+
+# Legend
 
 
 

@@ -66,7 +66,7 @@ To get the magnets in, a M600 like command is used. If you use the Marlin firmew
 ### Top
 
 
-Orientation of the print
+####Orientation of the print:
 
 ![Slice1](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice1.JPG)
 
@@ -76,7 +76,7 @@ The Magnets get inserted befor the last layer. So insert the M600 command on the
 
 #### Position of the Pockets for the Magnets
 
-The Magnets on the most right position, on the short end, are for the tenting legs. If you dont want use the tenting legs you can just let those two holes empty.
+
 ![Slice3](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice3.JPG)
 
 

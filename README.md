@@ -121,7 +121,7 @@ The first pause is at 7.6mm height.
 
 #### Second pause for the round magnets
 
-The second part is for the round magnets. Please remember to put 2 round magnets per slot into the holes. 1 magnet is a bit to weak for a good attachment to the case. Also the round magnets need to be oriented so that the part can be attached to the bottom of the case.
+The second part is for the round magnets, its at 13.2mm height. Please remember to put 2 round magnets per slot into the holes. 1 magnet is a bit to weak for a good attachment to the case. Also the round magnets need to be oriented so that the part can be attached to the bottom of the case.
 
 ![Slice8](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice9.JPG)
 

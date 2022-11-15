@@ -70,7 +70,7 @@ To get the magnets in, a M600 like command is used. If you use the Marlin firmew
 
 ![Slice1](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice1.JPG)
 
-The Magnets get inserted befor the last layer. So insert the M600 command on the last layer(7.2mm). The better finished is archived if you print the last two layers in 0.1 layer height and enter the magnets on the second to last layer at 7.1mm. That increases the chances that the magnets get properly covered with filament.so
+The Magnets get inserted befor the last layer. So insert the M600 command on the last layer(7.2mm). A better finished is archieved if you print the last two layers in 0.1mm layer height and enter the magnets on the second to last layer at 7.1mm. That increases the chances that the magnets get properly covered with filament.
 
 
 ![Slice2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice2.JPG)

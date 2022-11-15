@@ -85,7 +85,7 @@ The Magnets get inserted befor the last layer. So insert the M600 command on the
 
 ### Bottom
 
-The Bottom part is a bit more complex. It has, if you choose magnetig tenting, 2 pauses. Both to get the magnets in, one for the round 10mm x 1mm tenting magnets. The other for the 10x2x2mm magnets (5 for the Case and 2 for the tenting legs to hold on the side of the case.). If you dont want magnetic, you'll only need one pause for the magnets.
+The Bottom part is a bit more complex. It has, if you choose magnetig tenting, 2 pauses. Both to get the magnets in, one for the round 10mm x 1mm tenting magnets. The other for the 10x2x2mm magnets (5 for the Case and 2 for the tenting legs to hold on the side of the case). If you dont want magnetic tenting, you'll only need one pause for the magnets.
 
 #### Overview of the Part.
 

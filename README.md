@@ -70,7 +70,7 @@ To get the magnets in, a M600 like command is used. If you use the Marlin firmew
 
 ![Slice1](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice1.JPG)
 
-The Magnets get inserted befor the last layer. So insert the M600 command on the last layer(7.2mm). A better finished is archieved if you print the last two layers in 0.1mm layer height and enter the magnets on the second to last layer at 7.1mm. That increases the chances that the magnets get properly covered with filament.
+The Magnets get inserted befor the last layer. So insert the M600 command on the last layer(7.2mm). Always set the pause on the layer where the holes gets closed with the first layer. Because the pause gets triggered at the beginn of the layer. So it is before the holes get covered. If you do the pause one layer to early the magnet might stick out a bit and interfere with the nozzle.  A better finished is archieved if you print the last two layers in 0.1mm layer height and enter the magnets on the second to last layer at 7.1mm. That increases the chances that the magnets get properly covered with filament.
 
 
 ![Slice2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice2.JPG)
@@ -91,31 +91,44 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting, 2
 
 ![slice4](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice4.JPG)
 
-#### First pause for the round magnets needed for the tenting
+#### First pause for the round magnets (needed for the tenting).
 
 
-The first pause is at 1.6mm height for the round magnets. Always set the pause on the layer where the holes gets closed with the first layer. Because the pause gets triggered at the beginn of the layer. So it is before the holes get covered. If you do the pause one layer to early the magnet might stick out a bit and interfere with the nozzle. 
+The first pause is at 1.6mm height for the round magnets. Here you dont need to switch to 0.1 mm layer height, because there are a lot of follow up layers that will guarantee to cover the magnets.
 
 ![slice4_2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice4_2.jpg)
 
 
-#### Second pause for the case magnets
+#### Second pause (for the case magnets).
 
 This second pause is at 7.2mm height. The same tips for this pause as for the last one. And remember to switch to 0.1mm layer height for the last two layers for a better finish and a higher chance of covering the magnets cleanly.
 
 ![slice5](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice5.JPG)
 
 
-#### Third pause for the magnets to close the case
-
-![MagneticCorne10](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%203.JPG)
-
 
 ### Tenting Legs
 
-![MagneticTentingLegs](https://github.com/Runningtarrens/Mcorne/blob/main/pics/tenting%20legs.JPG)
+#### Orientation of the Part:
 
-Print 4 of them upright. But you need a prim to have enough surface that sticks to the build plate or it will get loose while printing.
+![Slice6](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice8.JPG)
+
+#### First pause for the square magnets (needed to attach to the case)
+
+The first pause is at 7.6mm height.
+
+![Slice7](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice10.JPG)
+
+#### Second pause for the round magnets
+
+The second part is for the round magnets. Please remember to put 2 round magnets per slot into the holes. 1 magnet is a bit to weak for a good attachment to the case. Also the round magnets need to be oriented so that the part can be attached to the bottom of the case.
+
+![Slice8](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice9.JPG)
+
+
+
+
+
 
 
 

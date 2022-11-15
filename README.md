@@ -78,6 +78,7 @@ The Magnets get inserted befor the last layer. So insert the M600 command on the
 
 #### Position of the Pockets for the Magnets
 
+![Slice3_2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice3_2.JPG)
 
 ![Slice3](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice3.JPG)
 
@@ -128,7 +129,7 @@ The second part is for the round magnets, its at 13.2mm height. Please remember 
 
 ### Travel Case
 
-The travel case also needs 2 pauses for the magnets. It needs 10 x 10x2x2mm magnets to build. The magnets gets inserted at the beginning and at the end of the print. Its recommend that the last two layers are printed in 0.1mm layer height again, for the former mentioned reasons.
+The travel case also needs 2 pauses for the magnets. It needs 10 x 10x2x2mm magnets to build and 10 additional magnets in the top part of the case, so the case can stick to the travel case. The magnets gets inserted at the beginning and at the end of the print. Its recommend that the last two layers are printed in 0.1mm layer height again, for the former mentioned reasons.
 
 #### Orientation of the Part:
 

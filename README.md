@@ -70,7 +70,17 @@ To get the magnets in, a M600 like command is used. If you use the Marlin firmew
 
 ![Slice1](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice1.JPG)
 
-The Magnets get inserted befor the last layer. So insert the M600 command on the last layer(7.2mm). Always set the pause on the layer where the holes gets closed with the first layer. Because the pause gets triggered at the beginn of the layer. So it is before the holes get covered. If you do the pause one layer to early the magnet might stick out a bit and interfere with the nozzle.  A better finished is archieved if you print the last two layers in 0.1mm layer height and enter the magnets on the second to last layer at 7.1mm. That increases the chances that the magnets get properly covered with filament.
+#### First pause (optional only needed for use of the tenting case)
+
+
+The Magnets get inserted at 2.8mm height . So insert the M600 command on the last layer(2.8mm). Always set the pause on the layer where the holes gets closed with the first layer. Because the pause gets triggered at the beginn of the layer. So it is before the holes get covered. If you do the pause one layer to early the magnet might stick out a bit and interfere with the nozzle. 
+
+![Slice3_2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice3_2.JPG)
+
+#### Second pause
+
+
+The Magnets get inserted befor the last layer. So insert the M600 command on the last layer(7.2mm). A better finished is archieved if you print the last two layers in 0.1mm layer height and enter the magnets on the second to last layer at 7.1mm. That increases the chances that the magnets get properly covered with filament.
 
 
 ![Slice2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice2.JPG)
@@ -78,7 +88,7 @@ The Magnets get inserted befor the last layer. So insert the M600 command on the
 
 #### Position of the Pockets for the Magnets
 
-![Slice3_2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice3_2.JPG)
+
 
 ![Slice3](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice3.JPG)
 

@@ -58,7 +58,9 @@ The optional magnets are only needed if you want to have the tenting setup of th
 * 205°C Filament temp
 * 60°C Bed Temp
  
+### Getting the magnets in
 
+To get the magnets in, a M600 like command is used. If you use the Marlin firmeware your printer will eject the filament with the M600 command. When you use Klipper you can just make a pause macro, that doesnt eject the Filament. (The M600 command is used because it can be added to each layer with on click in the PrusaSlicer.) The printer makes a pause. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to each other and dont repel each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is. 
 
 
 

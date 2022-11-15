@@ -32,3 +32,34 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 ![Mcorne_pic2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221110_092850.jpg)
 ![Mcorne_pic3](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221110_092929.jpg)
 
+# Bill of Materials
+
+To print this case youll need:
+* about 86 gramms of Filament
+* 20 Neodymium Magnets (10mm x 2mm x 2mm)
+*  (Optional) 6 Neodymium Magnets round (10mm x 1mm)
+*  (Optional) 4 Noedymium Magnets (10mm x 2mm x 2mm)
+
+The optional magnets are only needed if you want to have the tenting setup of the case.
+
+
+# How to print
+ 
+ I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems with warping or cracked prints because of that.
+ 
+ ## Slicing
+
+### Settings for the Print:
+
+* 0.20 layer hight
+* 3 Parimeters
+* 3 Top and Bottom layers
+* 15% Infill
+* 205°C Filament temp
+* 60°C Bed Temp
+ 
+
+
+
+
+

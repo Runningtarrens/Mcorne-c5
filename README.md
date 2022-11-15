@@ -45,7 +45,7 @@ The optional magnets are only needed if you want to have the tenting setup of th
 
 # How to print
  
- I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems with warping or cracked prints because of that.
+ I always print the case with PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems with warping or cracked prints because of that.
  
  ## Slicing
 

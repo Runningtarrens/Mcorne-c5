@@ -192,10 +192,14 @@ I only uploaded the one side as .stl but you can just mirror it in your slicer s
 
 ![more5](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221110_092946.jpg)
 
+## Site view showing the tenting setup
 
+![more6](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/20221110_093106.jpg)
 
 
 # Legend
+
+* MCU = Microcontroller unit
 
 
 

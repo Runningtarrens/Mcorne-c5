@@ -35,7 +35,7 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 # Bill of Materials
 
 To print this case youll need:
-* about 86 gramms of Filament
+* about 86 grams of Filament
 * 20 Neodymium Magnets (10mm x 2mm x 2mm)
 *  (Optional) 6 Neodymium Magnets round (10mm x 1mm)
 *  (Optional) 4 Noedymium Magnets (10mm x 2mm x 2mm)

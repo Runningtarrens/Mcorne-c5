@@ -73,7 +73,7 @@ To get the magnets in, a M600 like command is used. If you use the Marlin firmew
 #### First pause (optional only needed for use of the tenting case)
 
 
-The Magnets get inserted at 2.8mm height . So insert the M600 command on the last layer(2.8mm). Always set the pause on the layer where the holes gets closed with the first layer. Because the pause gets triggered at the beginn of the layer. So it is before the holes get covered. If you do the pause one layer to early the magnet might stick out a bit and interfere with the nozzle. 
+The Magnets get inserted at 2.8mm height . So insert the M600 command on the layer at 2.8mm . Always set the pause on the layer where the holes gets closed with the first layer. Because the pause gets triggered at the beginn of the layer. So it is before the holes get covered. If you do the pause one layer to early the magnet might stick out a bit and interfere with the nozzle. 
 
 ![Slice3_2](https://github.com/Runningtarrens/Mcorne-c5/blob/main/pictures/slice3_2.JPG)
 

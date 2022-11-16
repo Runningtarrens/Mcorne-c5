@@ -16,7 +16,7 @@ Content:
 * Files
 * More Pics
 * Legend
-
+* License
 
 # Preface
 
@@ -202,7 +202,9 @@ I only uploaded the one side as .stl but you can just mirror it in your slicer s
 * MCU = Microcontroller unit
 
 
+# License
 
+Print and modify all you want but please dont sell my desgin (digital or printed).
 
 
 
